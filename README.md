@@ -4,7 +4,8 @@
  It is still in early development.
 
 
-🧩 Third-Party Libraries
+# 🧩 Third-Party Libraries
+
 This project uses the following third-party libraries:
 
 1. Simple DirectMedia Layer (SDL2)
