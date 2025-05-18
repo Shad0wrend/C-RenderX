@@ -1,5 +1,5 @@
 # C-RenderX
- C-RenderX is an open-source 2D/3D game engine that I am building from scratch using C.
+ C-RenderX is an open-source 2D/3D game engine that I am building from scratch using C. Right now it only uses 1 third party library, namely SDL2.
 
  It is still in early development.
 
